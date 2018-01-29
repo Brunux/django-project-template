@@ -21,7 +21,7 @@ This is a simple Django 1.11+ project template with my preferred setup. Most Dja
 
 ```bash
 $ django-admin.py startproject \
-  --template=https://github.com/jpadilla/django-project-template/archive/master.zip \
+  --template=https://github.com/brunux/django-project-template/archive/master.zip \
   --name=Procfile \
   --extension=py,md,env \
   project_name
